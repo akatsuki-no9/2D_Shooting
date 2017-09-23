@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2d-shooting_built.data.unityweb",
+"asmCodeUrl": "2d-shooting_built.asm.code.unityweb",
+"asmMemoryUrl": "2d-shooting_built.asm.memory.unityweb",
+"asmFrameworkUrl": "2d-shooting_built.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
